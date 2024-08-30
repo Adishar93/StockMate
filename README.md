@@ -1,5 +1,4 @@
-# StockMate
-## Demo
+## StockMate Demo
 ### Desktop Mode
 
 
