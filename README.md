@@ -1,6 +1,19 @@
 # StockMate
 ## Demo
-https://github.com/user-attachments/assets/5742fcf8-cbd2-4b4a-a813-1a229e80804f
+### Desktop Mode
+
+
+https://github.com/user-attachments/assets/2f9a2b82-a0cb-480e-9dd8-1611d9f0241e
+
+
+### Mobile mode
+
+
+
+https://github.com/user-attachments/assets/ff7f7841-224d-4f39-a495-f52632b42fe2
+
+
+
 
 ## Project Overview
 This project is a stock management platform where users can search for stocks, mark favorites, and perform buying and selling transactions based on their available balance.
