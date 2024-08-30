@@ -1,4 +1,4 @@
-## StockMate Demo
+## Stock Management Platform Demo
 ### Desktop Mode
 
 
